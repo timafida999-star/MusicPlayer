@@ -45,8 +45,8 @@
 		B688A1E33093B0BD002212BE = {
 			isa = PBXGroup;
 			children = (
-				B688A1EE3093B0BD002212BE /* MusicPlayer */,
 				B688A1ED3093B0BD002212BE /* Products */,
+				B688A1EE3093B0BD002212BE /* MusicPlayer */,
 			);
 			sourceTree = "<group>";
 		};
